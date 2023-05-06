@@ -1,0 +1,31 @@
+*{
+	font-family: 'Georgia', Serif;
+	font-size: 35px;
+	color: yellow;
+}
+body{
+	background-color: white;
+	display: block;
+min-height: 100vh;
+margin: auto;
+	background-image: url("tiw.png");
+
+}
+
+#menu-top a {
+	display: inline-block;
+}
+#ok{
+	color: red;
+}
+input{
+	color: black;
+}
+#ok1{
+	color: green;
+}
+nav{
+	display: flex;
+	justify-content: space-around;
+
+}

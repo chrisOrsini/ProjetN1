@@ -1,0 +1,14 @@
+*{
+	box-sizing: border-box;
+	text-align: center;
+	
+}
+form{
+	padding: 70px 150px;
+	width: fit-content;
+	margin: auto;
+	border: 6px solid mediumpurple;
+	margin-top: 10px;
+
+	background-color: yellow;
+}
