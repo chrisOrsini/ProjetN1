@@ -13,7 +13,7 @@
 		<form method="post" action="new-user.php">
 			<label>Nom de compte</label><br>
 				<input type="text" name="username" placeholder="pas despace ou de caractères spéciaux" required><br><br>
-			<label>Mot de passe</label><br>
+			<label>Mot de passe</label>
 				<input type="password" name="password1" minlength="6" required placeholder="6 caracteres min. dont un chiffre" maxlength="15"><br><br>
 			<label>Confirmation de mot de passe</label><br>
 				<input type="password" name="password2" minlength="6" maxlength="25" required placeholder="6 carecteres min. dont un chiffre"><br><br>

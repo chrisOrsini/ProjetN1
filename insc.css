@@ -1,9 +1,10 @@
-*{
+* {
 	box-sizing: border-box;
 	text-align: center;
-	
+
 }
-form{
+
+form {
 	padding: 70px 150px;
 	width: fit-content;
 	margin: auto;
